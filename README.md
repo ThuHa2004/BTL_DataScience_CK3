@@ -7,4 +7,4 @@
 ---
 ### Đề tài: Dự đoán giá Bitcoin bằng khoa học dữ liệu
 ---
-# Link youtube: 
+# Link youtube: https://youtu.be/njOGW9WkxvQ
