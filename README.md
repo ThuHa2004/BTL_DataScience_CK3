@@ -5,6 +5,6 @@
 ## MSSV: K225480106009
 ## GVHD: TS.Nguyễn Văn Huy
 ---
-### Đề tài: Dự đoán giá Bitcoin bằng khoa học dữ liệu
+### Đề tài: Phân tích và dự đoán giá Bitcoin bằng khoa học dữ liệu
 ---
 # Link youtube: https://youtu.be/njOGW9WkxvQ
